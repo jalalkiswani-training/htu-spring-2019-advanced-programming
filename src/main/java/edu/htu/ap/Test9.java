@@ -1,7 +1,20 @@
 package edu.htu.ap;
 
 import java.util.Scanner;
-
+/***
+ * This class is a simple command line calculator that:
+ * 1- Read n1 from user
+ * 2- Read n2 from user
+ * 3- Show menu 
+ * 		1- Add
+ * 		2- Sub
+ * 		3- Mul
+ * 		4- Div
+ * 4- User shall select the choice 
+ * 5- The result should be printed
+ * @author Jalal.Kiswani
+ *
+ */
 public class Test9 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
