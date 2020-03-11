@@ -1,4 +1,4 @@
-package edu.htu.ap;
+package edu.htu.ap.intro;
 
 public class Test10 {
 
