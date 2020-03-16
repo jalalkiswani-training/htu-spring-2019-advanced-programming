@@ -26,6 +26,7 @@ public class StringTest {
 		String test="ABCDEFG";//A:0 B:1 C:2 
 		String test2=test.substring(2,4);
 		test.toLowerCase();
+		double d=10d;
 		
 		System.out.println(test);
 		System.out.println(test2);

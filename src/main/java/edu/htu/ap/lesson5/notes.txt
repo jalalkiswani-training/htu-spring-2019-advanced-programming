@@ -1,0 +1,22 @@
+JDK
+JRE
+JVM
+-----------------------
+Example:
+ 1- Read student info
+ (id, name, age)
+ 
+ 2- Printing them formatted
+ =====================
+ ID   Name    Age 
+ ====================
+ 1    Ata    20
+-------------------
+Example :
+Read course information 
+(course id, name, credit)
+
+Print them out
+-- encapsulation 
+(get all related variables and methods into the same unit)
+     
