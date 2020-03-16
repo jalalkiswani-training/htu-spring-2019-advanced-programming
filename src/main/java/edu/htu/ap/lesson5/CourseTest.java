@@ -7,7 +7,6 @@ public class CourseTest {
 		course.name="Advanced Programming";
 		course.credits=3;
 		
-		
 		System.out.println(course.getInfo());
 	}
 }
