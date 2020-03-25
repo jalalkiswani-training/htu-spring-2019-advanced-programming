@@ -1,0 +1,9 @@
+UML: Unified Modeling Language
+	- Class Diagram
+		- Block 
+			(Class Name)
+			Attributes: Instance variables
+			Opetration/Actions: methods
+			
+I use Visual Paraidgm for modeling - Community Edition- Free
+You can use: draw.io

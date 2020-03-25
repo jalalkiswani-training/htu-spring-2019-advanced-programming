@@ -19,7 +19,7 @@ public class CoffeeMaker_v3 {
 	}
 
 	private void addSugar() {
-		sugar -= 2;
+		sugar -= 4;
 		System.out.println("Adding sugar..., sugar amount " + sugar);
 	}
 
