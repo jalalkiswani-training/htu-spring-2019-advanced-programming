@@ -36,7 +36,6 @@ public class Test_Car_V2 {
 		c2.setPrice(20000);
 		c2.setVin("987897897");
 		
-		//gargour.setPhone("98765431");
 		System.out.println(c1.getDealer().getPhone());
 		System.out.println(c2.getDealer().getPhone());
 		
