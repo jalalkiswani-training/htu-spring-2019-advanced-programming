@@ -2,7 +2,10 @@ package edu.htu.ap.lesson9;
 
 public class Test_Car_V2 {
 	public static void main(String[] args) {
-		Brand mercedes = createMercedes();
+		Brand mercedes=new Brand();
+		mercedes.setName("Mercedes-Benz");
+		mercedes.setWebsite("http://wwww.mecerdes.com");
+		mercedes.setHomeCompanyName("Daimler");
 		
 		Dealer gargour=new Dealer();
 		gargour.setName("Gargour");
@@ -45,11 +48,4 @@ public class Test_Car_V2 {
 				
 	}
 
-	public static Brand createMercedes() {
-		Brand mercedes=new Brand();
-		mercedes.setName("Mercedes-Benz");
-		mercedes.setWebsite("http://wwww.mecerdes.com");
-		mercedes.setHomeCompanyName("Daimler");
-		return mercedes;
-	}
 }
