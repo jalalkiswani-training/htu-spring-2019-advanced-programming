@@ -1,0 +1,14 @@
+Major: 
+10  IT
+
+
+Course:
+101   Programming   3
+102   Advanced Programming 3
+103   Data Strcuture  4
+
+Student
+123    Ata  (IT)  
+	(101,90,1,2019)
+	(102,80,2,2019)
+	(103,70,3,2019)
