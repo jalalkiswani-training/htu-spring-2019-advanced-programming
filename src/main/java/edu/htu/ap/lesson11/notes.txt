@@ -1,1 +1,4 @@
-Class should be closed for modifications, open for inheritance 
+- Class should be closed for modifications, open for inheritance
+- Super Class / Parent
+- Sub Class / Child
+- Method override: same signiture, but rewriteen in subclass to chaneg behaviour 
