@@ -1,9 +1,6 @@
 package edu.htu.ap.lesson12;
 
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.Random;
-import java.util.Vector;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class TrixGame {
