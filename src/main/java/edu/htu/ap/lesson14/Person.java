@@ -1,13 +1,23 @@
 package edu.htu.ap.lesson14;
 
 public class Person {
-	//static variable: class variable
+	// static variable: class variable
 	public static String GENDER_MALE = "1";
 	public static String GENDER_FEMALE = "2";
-	
+
 	// instance variables
 	private int id;
 	private String name;
+
+	//empty constructor
+	public Person() {
+	}
+
+	//overloaded constructor that enable setting the instance variables direcrtly 
+	public Person(int id, String name) {
+		this.id = id;
+		this.name = name;
+	}
 
 	public void sayHi() {
 		// + next to a string will cause a string concatination
