@@ -1,0 +1,43 @@
+Requirements: Basic SIS (Student Information System)
+Version 1 (Command Line): 
+1)Show user menu 
+	1- Add student		
+	2- Update Student
+	3- Delet Student
+	4- Show All Students
+	5- Quit
+	
+	
+	Add Student:  
+	---------------------------------
+	Please enter student id: 10
+	Student Name: Ata
+	Student Average: 99
+	----------------------------------
+	
+	Update Student:
+	-------------------------
+	Enter student ID: 10
+	Enter new name: Ata Jamal
+	Enter new average:  88
+	---------------------------
+	
+	Delete Student:
+	---------------------------
+	Enter student id: 10
+	---------------------------
+	
+	Show All Student Screen:
+	-----------------------------
+	ID       Name    Average
+	------------------------------
+	5		Ata			99
+	6		Essa		77
+	100		Jamal		888
+	...		...			...
+	
+	
+2) The data should be stored and retreived from files
+----------------------
+Version 2 (GUI : Graphical User Interface)
+Make the application use Swing GUI components: 
