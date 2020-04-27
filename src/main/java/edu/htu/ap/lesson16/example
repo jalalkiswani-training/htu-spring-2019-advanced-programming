@@ -37,7 +37,7 @@ Version 1 (Command Line):
 	...		...			...
 	
 	
-2) The data should be stored and retreived from files
+2) The data should be stored and retrieved from files (students.csv)
 ----------------------
 Version 2 (GUI : Graphical User Interface)
 Make the application use Swing GUI components: 
