@@ -5,6 +5,7 @@ public class Test {
 		
 		System.out.println("=====================");
 		A a=new A();
+		
 		a.m1();//m1 from A
 		a.m2();//m2 from A
 		System.out.println("=====================");
@@ -12,6 +13,9 @@ public class Test {
 		b1.m1();//m1 from B: overriden
 		b1.m2();//m2 from A
 		b1.m3();//m3 from B
+		
+		
+		
 		System.out.println("=====================");		
 		A a2=a;
 		a2.m1();//m1 from A
@@ -32,5 +36,8 @@ public class Test {
 		a3.m1();//m1 from B: overriden: 
 		a3.m2();//m2 from A
 		
+		
 	}
+	
+
 }
